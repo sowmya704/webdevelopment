@@ -1,0 +1,297 @@
+body{
+	width: 100%;
+	margin: 2px grey;
+	padding: 10px auto;
+}
+#mainDiv{
+	width : 100%;
+	background-color: seagreen;
+	position: relative;
+}
+.div1{
+	background: url(https://t4.ftcdn.net/jpg/02/07/28/57/360_F_207285773_mWjiTNiGmzcjIahm7GkBY3CJy5FYwuuZ.jpg)no-repeat;
+	background-size: 100% 100%;
+	background-color: grey;
+	padding: 16px 4px;
+	height: 600px;
+	width: 100%;
+	font: bold;
+}
+.div1sub{
+	font-size: 75px;
+	text-align: left;
+	color: #DD761C;
+}
+.div1sub2{
+	font-size: 20px;
+	text-align: left;
+	color: solidgrey;
+}
+.readbutton{
+	background: white;
+	color: black;
+	border-radius: 10px;
+	padding: 2px;
+	font-size: 17px;
+	border-color: #a17d1b;
+}
+#leftbox{
+	float: left;
+	width: 31%;
+	margin-right: 20px;
+	height: 160px;
+	text-align: center;
+	background-color: ghostwhite;
+}
+#middlebox{
+	float: left;
+	width: 31%;
+	margin-right: 20px;
+	height: 160px;
+	text-align: center;
+    background-color: ghostwhite;
+}
+#rightbox{
+    float: left;
+	width: 31%;
+	margin-right: 20px;
+	height: 160px;
+	text-align: center;
+    background-color: ghostwhite;
+}
+#mainDiv2{
+	width : 100%;
+}
+.div3{
+	background: url(https://i.pinimg.com/736x/52/19/43/521943cd9dc1cbee8419edc2e4bc4b13.jpg)no-repeat;
+	background-size: cover;
+	padding: 16px 4px;
+	height: 800px;
+	width: 100%;
+	font: bold;
+}
+.div3sub{
+	font-size: 45px;
+	text-align: center;
+	color: black;
+}
+.div3sub2{
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}
+#table1{
+	float: left;
+	background:url(https://wallpapers.com/images/featured/indian-food-x2tv62mgy6kq4or3.jpg)no-repeat;
+	background-size: cover;
+	width: 31%;
+	margin-right: 20px;
+	height: 270px;
+}
+#table2{
+	background: url(https://wallpapers.com/images/hd/720p-food-background-1280-x-720-3t203mqsfr9c8rbh.jpg)no-repeat;
+	background-size: cover;
+	float: left;
+	background-color: blueviolet;
+	width: 31%;
+	margin-right: 20px;
+	height: 270px;
+}
+#table3{
+	background: url(https://thumbs.dreamstime.com/b/fruit-platter-fresh-grapes-apple-pineapple-kiwi-mango-red-ripe-strawberry-pitaya-colorful-tray-best-health-good-food-145167548.jpg)no-repeat;
+	background-size:cover;
+	 float: left;
+	background-color:  blueviolet;
+	width: 31%;
+	margin-right: 20px;
+	height: 270px;
+}
+#table4{
+	background: url(https://www.shutterstock.com/image-photo/chicken-fillet-salad-healthy-food-600nw-1721943142.jpg)no-repeat;
+	background-size:cover;
+
+	 float: left;
+	background-color:  blueviolet;
+	width: 31%;
+	margin-right: 20px;
+	height: 270px;
+	margin-top: 10px
+}
+#table5{
+	background: url(https://static.vecteezy.com/system/resources/previews/037/321/684/non_2x/ai-generated-breakfast-croissants-eggs-tomato-and-cheese-flat-layout-free-photo.jpg)no-repeat;
+	background-size:cover;
+	float: left;
+	background-color:  blueviolet;
+	width: 31%;
+	margin-right: 20px;
+	height: 270px;
+	margin-top: 10px;
+}
+#table6{
+	background: url(https://www.shutterstock.com/image-photo/continental-breakfast-captured-above-top-260nw-731752945.jpg)no-repeat;
+	background-size:cover;
+	 float: left;
+	background-color:  blueviolet;
+	width: 31%;
+	margin-right: 20px;
+	height: 270px;
+	margin-top: 10px;
+}
+#mainDiv3{
+	width: 100%;
+}
+.div4{
+	background: url(https://cfcdn.apowersoft.info/astro/picwish/_astro/tryNow-bg@3840w.c583e29f.png)no-repeat;
+	background-size: contain;
+	padding: 16px 4px;
+	height: 700px;
+	width: 100%;
+	font: bold;
+}
+.div4sub{
+	font-size: 45px;
+	text-align: center;
+	color: black;
+	margin-bottom: 50px;
+}
+.div4sub2{
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}
+#box1{
+	float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	height: 200px;
+	text-align: center;
+	background-color: whitesmoke;
+}
+#box2{
+	float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	height: 200px;
+	text-align: center;
+    background-color:  whitesmoke;
+}
+#box3{
+    float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	height: 200px;
+	text-align: center;
+    background-color: whitesmoke;
+}
+
+#box4{
+    float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	height: 200px;
+	text-align: center;
+    background-color:  whitesmoke;
+}
+.newbutton{
+	background: white;
+	color: black;
+	border-radius: 10px;
+	padding: 2px;
+	font-size: 17px;
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	border-color: #a17d1b;
+}
+#mainDiv4{
+	width: 100%;
+}
+.div6{
+	background: grey;
+	background-size: cover;
+	padding: 16px 4px;
+	height: 600px;
+	width: 100%;
+	font: bold;
+}
+#block1{
+	background: url(https://t4.ftcdn.net/jpg/03/06/84/91/360_F_306849118_EE7nzty8yAlmRI0CxwApnMpUwpimuMmz.jpg)no-repeat;
+	background-size: cover;
+	float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-top: 30px;
+	height: 300px;
+	text-align: center;
+}
+#block2{
+	float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-top: 30px;
+	height: 300px;
+	text-align: center;
+    background-color: whitesmoke;
+    border : 1px solid orange;
+}
+#block3{
+	background: url(https://www.stylecraze.com/wp-content/uploads/2013/11/5-High-fiber-Food-Groups-You-Must-Know-And-Eat.jpg)no-repeat;
+	background-size: cover;
+    float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-top: 30px;
+	height: 300px;
+	text-align: center;
+}
+#block4{
+    float: left;
+	width: 23%;
+	margin-right: 20px;
+	margin-top: 30px;
+	height: 300px;
+	text-align: center;
+    background-color: whitesmoke;
+     border : 1px solid orange;
+}
+#mainDiv5{
+	width: 100%;
+}
+.div7{
+	background: url(https://www.asianpaints.com/content/dam/asian_paints/colours/swatches/643.png.transform/cc-width-720-height-540/image.png)no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+}
+#boxes1{
+	background: url(https://shwetainthekitchen.com/wp-content/uploads/2021/08/Fruit-Salad-with-Condensed-Milk-500x375.jpg)no-repeat;
+	background-size: cover;
+	width: 46%;
+	float: left;
+	width: 48%;
+	margin-top: 50px;
+	height: 400px;
+
+}
+#boxes2{
+	float:left;
+	margin-top: 50px;
+	width: 45%;
+	height: 360px;
+	text-align: left;
+	padding: 20px;
+	background-color: whitesmoke; 
+}
+.button1{
+	background: #dedbd3;
+	color: black;
+	border-radius: 10px;
+	padding: 2px;
+	font-size: 17px;
+	margin-right: 20px;
+	border-color: #a17d1b;
+}
